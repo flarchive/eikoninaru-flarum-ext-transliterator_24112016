@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of eikoninaru/flarum-ext-transliterator_24112016.** Not for installation: use [Packagist](https://packagist.org/packages/eikoninaru/flarum-ext-transliterator_24112016) or the [upstream repository](https://github.com/eikoninaru/flarum-ext-transliterator_24112016).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
+**3** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^0.1.0-beta.5`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-09-11 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-09-11 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016/tree/archive/v0.1.1) |
+| `0.2.0` | 2016-09-17 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/eikoninaru-flarum-ext-transliterator_24112016/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/eikoninaru-flarum-ext-transliterator_24112016.json](https://github.com/flarchive/archive-index/blob/main/packages/eikoninaru-flarum-ext-transliterator_24112016.json)
 
